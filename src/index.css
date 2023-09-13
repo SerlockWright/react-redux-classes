@@ -11,11 +11,11 @@ body {
 }
 
 .classChildren_checkbox:checked ~ .class_header .icon_arrow {
-  transform: rotate(180deg) !important;
+  transform: rotate(90deg) !important;
 }
 
 .idfObject_header {
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+  background-color: rgb(243 244 246 / 1);
   height: 48px;
   display: flex;
   align-items: center;
